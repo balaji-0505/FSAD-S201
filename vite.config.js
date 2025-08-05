@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/FSAD-201/'
+  base: '/FSAD-201/',
   plugins: [react()],
 })
